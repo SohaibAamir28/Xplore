@@ -131,6 +131,6 @@ Have ideas or feedback? Open an issue or reach out via email at sohaibaamir28@ex
 Let’s shape the future of XR design together!
 
 🔗 Links
-YouTube Demo  [![Xplore Demo](https://youtube.com/shorts/R9dDd1Rz54s?feature=share)
-GitHub Repository [![Xplore Repo](https://github.com/SohaibAamir28/Xplore)
-Devpost Page [![Xplore Devpost Page](https://devpost.com/software/virtual-companion-for-guided-experiences)
+YouTube Demo  ([Xplore Demo](https://youtube.com/shorts/R9dDd1Rz54s?feature=share))
+GitHub Repository ([Xplore Repo](https://github.com/SohaibAamir28/Xplore))
+Devpost Page ([Xplore Devpost Page](https://devpost.com/software/virtual-companion-for-guided-experiences))
