@@ -13,7 +13,8 @@ Virtual Companion for Guided Experiences | XR Design Challenge
 ## 🎥 Demo
 
 Check out the demo video to see **Xplore** in action!  
-[![Xplore Demo](https://www.youtube.com/shorts/R9dDd1Rz54s)
+
+🎬 _Watch [Xplore Demo](https://www.youtube.com/shorts/R9dDd1Rz54s) for Xplore Mixed Reality 🕹️ Prototype.
 
 ---
 
